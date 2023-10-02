@@ -38,4 +38,8 @@ echo PHP_EOL;
 $wireCat = new Cat();
 echo $wireCat->makeSound();
 
+
+
+
+
 ?>
